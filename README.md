@@ -100,6 +100,13 @@ Running the cells sequentially ensures that all required variables, models, and 
 
 ---
 
+## Links
+
+* Google Colab Notebook: https://colab.research.google.com/drive/19Ibf-QiawheRePELJCGPCIEW69FfrlIb?usp=sharing
+* Dataset Source: https://www.kaggle.com/datasets/shambhurajejagadale/student-performance-prediction-dataset
+
+---
+
 ## Repository Structure
 
 ```text
