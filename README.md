@@ -17,6 +17,16 @@ This project demonstrates the complete Machine Learning workflow, including:
 
 ---
 
+## HOW TO RUN THE PROJECT
+
+There are two ways to run the project:
+1. Thorugh Google Colab as the Steps are defined Below in the Installation Steps.
+2. Using the Dashboard User Interface made with React and FastAPI using the link:
+   **https://student-analysis-model-lezc.vercel.app/**
+
+
+---
+
 ## Installation Process
 
 Follow these steps to execute the notebook successfully:
