@@ -1,7 +1,9 @@
+fastapi (For UI Dashboard)
+uvicorn  (For UI Dashboard)
 pandas
 numpy
 scikit-learn
 joblib
-pydantic
+pydantic  (For UI Dashboard)
 matplotlib
 seaborn
