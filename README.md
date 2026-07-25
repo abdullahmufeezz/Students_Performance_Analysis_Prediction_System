@@ -85,6 +85,8 @@ Execute the notebook cells in order from top to bottom:
 8. Checking Prediction Model for Student Score
 9. To Download this Model Run Below (If you want to download model.pkl)
 10. Study Hours vs Exam Score ( Visiuals = A chart Showing Study Hours and Exam Score)
+11. Correlation Heatmap
+12. Feature Importance Graph
 
 
 Running the cells sequentially ensures that all required variables, models, and outputs are generated correctly.
