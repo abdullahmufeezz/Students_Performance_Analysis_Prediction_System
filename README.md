@@ -125,6 +125,8 @@ Running the cells sequentially ensures that all required variables, models, and 
 
 * Google Colab Notebook: https://colab.research.google.com/drive/19Ibf-QiawheRePELJCGPCIEW69FfrlIb?usp=sharing
 * Dataset Source: https://www.kaggle.com/datasets/shambhurajejagadale/student-performance-prediction-dataset
+* Dashboard Link: https://student-analysis-model-lezc.vercel.app/
+* Github Repository (Dashboard): https://github.com/abdullahmufeezz/Student-Performance-Analysis-Prediction-Model-DashboardUI 
 
 ---
 
