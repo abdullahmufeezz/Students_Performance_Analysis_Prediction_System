@@ -130,7 +130,7 @@ Student-Performance-Prediction/
 │
 ├── 📁 Documents/
 │   ├── AI Usage Declaration.pdf
-│   └── Students Performance Prediction Report.pdf
+│   └── Students Performance Prediction Project Report.pdf
 │
 ├── README.md
 ├── Student_Performance_Analysis.ipynb
