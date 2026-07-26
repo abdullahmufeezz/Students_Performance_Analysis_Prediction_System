@@ -106,13 +106,18 @@ Running the cells sequentially ensures that all required variables, models, and 
 
 ---
 
-## Expected Output
+## Expected Output (With Google Colab)
 
 <img width="389" height="194.5" alt="image" src="https://github.com/user-attachments/assets/5f086bde-0c76-4a70-b0ac-a21837f6db2c" />
 
 
 
 **Enter the student's academic and behavioral details (study_hours, attendence, sleep_hours, internet_usage, assignment_completed, and previous_score). The trained machine learning model will analyze the provided inputs and predict the expected exam score using patterns learned from the training dataset.**
+
+
+## Expected Output (With Dashboard)
+
+<img width="455.5" height="911" alt="image" src="https://github.com/user-attachments/assets/d07759f4-6fe9-48b7-96a4-c9f47a015b2d" />
 
 ---
 
