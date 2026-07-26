@@ -15,6 +15,9 @@ This project demonstrates the complete Machine Learning workflow, including:
 * Data Visualization
 * Performance Prediction
 
+I couldnt upload the the "model.pkl" file as it was of 51.7MB which was not being uploaded on github. But you can download it from Google Colab (Execution Order No.9)
+
+
 ---
 
 ## HOW TO RUN THE PROJECT
