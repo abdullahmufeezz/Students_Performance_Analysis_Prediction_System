@@ -126,12 +126,14 @@ Running the cells sequentially ensures that all required variables, models, and 
 ## Repository Structure
 
 ```text
-Students_Performance_Analysis_Prediction_System/
+Student-Performance-Prediction/
 │
-├── Student_Performance_Analysis.ipynb                                  # Main Google Colab Notebook
-├── Students_dataset.csv                                                # Dataset
-├── Students Performance Prediction System (Project Report).pdf         # Project File
-├── AI Usage Declaration                                                # Where was AI used in this project
-├── requirement.txt                                                     # requirement text file (used for backend while making dashboard UI)
-└── README.md                                                           # Project Documentation
+├── 📁 Documents/
+│   ├── AI Usage Declaration.pdf
+│   └── Students Performance Prediction Report.pdf
+│
+├── README.md
+├── Student_Performance_Analysis.ipynb
+├── Students_dataset.csv
+└── requirements.txt
 ```
